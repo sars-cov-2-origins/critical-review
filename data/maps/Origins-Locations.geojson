@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Locations",
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "Name": "Baishazhou Market", "Description": "<div>Li Shui Lu, Hongshan Qu, Wuhan Shi, Hubei Sheng, China<br><\/div><div>30.4626°N 114.2565°E<br><\/div><div><br><\/div>" }, "geometry": { "type": "Point", "coordinates": [ 114.2565, 30.4626 ] } },
+{ "type": "Feature", "id": 2, "properties": { "Name": "Qiyimen Shengxian farmer’s market", "Description": "<div>588 Zhongshan Rd, Wuchang District, Wuhan, Hubei, China<br><\/div><div>30.5232°N 114.3096°E<br><\/div>" }, "geometry": { "type": "Point", "coordinates": [ 114.3096, 30.5232 ] } },
+{ "type": "Feature", "id": 3, "properties": { "Name": "Huanan Seafood Wholesale Market", "Description": "<div>Fazhan Ave, Jianghan District, Wuhan, Hubei, China<\/div><div>30.6196°N 114.2576°E<br><\/div>" }, "geometry": { "type": "Point", "coordinates": [ 114.2576, 30.6196 ] } },
+{ "type": "Feature", "id": 4, "properties": { "Name": "The Wuhan Institute of Virology Labs", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.2625, 30.3763889 ] } },
+{ "type": "Feature", "id": 5, "properties": { "Name": "Yangchahu Farmer's Market", "Description": "" }, "geometry": { "type": "Point", "coordinates": [ 114.252838, 30.6324296 ] } }
+]
+}

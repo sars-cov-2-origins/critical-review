@@ -1,0 +1,14 @@
+onset_date,hospitalization_date,collection_date,upload_date,age_sex,sequence_name,gisaid_id,Relation to the Huanan market,reference,WHO_patient,notes
+2019-12-16,2019-12-22,2019-12-30,,41M,Wuhan/IPBCAMS-WH-03/2019,EPI_ISL_403930,none,https://dx.doi.org/10.1097/CM9.0000000000000722,,Patient 4 (by elimination)
+2019-12-15,2019-12-18,2019-12-24,2020-01-11,65M,Wuhan/IPBCAMS-WH-01/2019,EPI_ISL_402123,vendor,https://dx.doi.org/10.1097/CM9.0000000000000722,S02,Patient 1 (matched by age/sex and collection date in GISAID entry)
+2019-12-17,,2019-12-26,2020-01-30,44M,Wuhan/WH01/2019,EPI_ISL_406798,purchaser,WHO report Table 6/7,S03,
+2019-12-19,,2019-12-30,2020-02-28,32M,Wuhan/HBCDC-HB-02/2019,EPI_ISL_412898,vendor,WHO report Table 6/7,S04,Age/sex from EPI_ISL_402127 - WIV02
+2019-12-20,2019-12-27,2019-12-30,2020-01-21,61M,Wuhan/IPBCAMS-WH-05/2020,EPI_ISL_403928,purchaser,https://dx.doi.org/10.1097/CM9.0000000000000722,S05,Patient 5 (matched by age/sex and collection date in GISAID entry)
+2019-12-20,2019-12-26,2019-12-26,,41M,Wuhan/Hu-1/2019,EPI_ISL_402125,worker,http://doi.org/10.1038/s41586-020-2008-3,S06,Matches SO6 but earlier collection date (ref says sampled on admission)
+2019-12-20,2019-12-25,2020-01-02,,39M,Wuhan/WHU01/2020,EPI_ISL_406716,vendor,https://doi.org/10.1080/22221751.2020.1725399,S07,
+2019-12-20,,2019-12-30,2020-04-06,56M,Wuhan/IME-WH04/2019,EPI_ISL_529216,vendor,WHO report Table 6/7,S08,Age/sex from EPI_ISL_402130 - WIV07
+2019-12-22,2019-12-28,2020-01-02,,21F,Wuhan/WHU02/2020,EPI_ISL_406717,Contact with Huanan Market staff,https://doi.org/10.1080/22221751.2020.1725399,S09,
+2019-12-23,2019-12-27,2019-12-30,2020-01-21,49F,Wuhan/IPBCAMS-WH-02/2019,EPI_ISL_403931,vendor,https://dx.doi.org/10.1097/CM9.0000000000000722,S10,Patient 2 (matched by age/sex and collection date in GISAID entry)
+2019-12-23,2019-12-29,2019-12-30,2020-01-21,52F,Wuhan/IPBCAMS-WH-04/2019,EPI_ISL_403929,none,https://dx.doi.org/10.1097/CM9.0000000000000722,S11,Patient 3 (matched by age/sex and collection date in GISAID entry)
+2019-12-23,,2019-12-30,2020-01-18,40M,Wuhan/WIV06/2019,EPI_ISL_402129,vendor,WHO report Table 6/7,S12,
+2019-12-26,,2019-12-30,2020-04-06,,Wuhan/IME-WH01/2019,EPI_ISL_529213,visitor to another market,WHO report Table 6/7,S13,

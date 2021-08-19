@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "Hubei",
+"features": [
+{ "type": "Feature", "id": 1, "properties": { "osm_id": -913106, "admin_level": "4", "is_in": "", "name": "湖北省", "waterway": "", "boundary": "administrative", "natural": "", "water": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 115.076933, 29.9719559 ], [ 115.076933, 31.362241 ], [ 113.6924617, 31.362241 ], [ 113.6924617, 29.9719559 ], [ 115.076933, 29.9719559 ] ] ] } }
+]
+}
